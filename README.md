@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joanalbasaldo
+- 👋 Hi, I’m @joanc-a
 - 👀 I’m interested in developing software and web, as well as cybersecurity.
 - 🌱 I’m currently learning OOP's. I would love to learn more about programming.
 - 💞️ I’m looking to collaborate on developing 
